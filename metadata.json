@@ -1,0 +1,5 @@
+{
+  "name": "DjangoDeploy GenAI",
+  "description": "An AI-powered generator for production-ready Django deployment scripts on Ubuntu VPS. Generates Nginx, Gunicorn, and Systemd configurations.",
+  "requestFramePermissions": []
+}
